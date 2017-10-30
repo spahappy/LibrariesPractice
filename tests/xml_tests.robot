@@ -21,3 +21,6 @@ The count of element "food" should be correct
 
 The name of first "food" should be expected
     xml.Verify First Food Name
+
+Feature Test 1
+    Log  Do feature Test 1

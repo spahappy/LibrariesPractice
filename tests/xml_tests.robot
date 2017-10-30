@@ -16,7 +16,7 @@ Verify Menu Name
     xml.Verify Menu Name
 
 The count of element "food" should be correct
-    [Tags]  XML aaa
+    [Tags]  XML
     xml.Verify Food Count
 
 The name of first "food" should be expected
